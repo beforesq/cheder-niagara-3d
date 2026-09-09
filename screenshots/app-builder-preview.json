@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cheder Niagara 3D · Holcim",
+      "hasCanvas": false,
+      "bodyTextLen": 1248,
+      "bodyTextHash": "c4ec4e356adef7a98b971101636913cbc6ff6253492d8a5bf6cf067baa0449f8",
+      "bodyTextPrefix": "SE ÎNCARCĂ SIMULAREA 3D HOLCIM ROMÂNIA · INTERNSHIP EXPEDIȚIE Co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cheder Niagara 3D · Holcim",
+      "hasCanvas": true,
+      "bodyTextLen": 760,
+      "bodyTextHash": "7b14df464bceb97f4133dab3d4235aa4221394bdc204ee0698ab6b61be3edb51",
+      "bodyTextPrefix": "HOLCIM ROMÂNIA · INTERNSHIP EXPEDIȚIE Compensatori site Niagara ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
